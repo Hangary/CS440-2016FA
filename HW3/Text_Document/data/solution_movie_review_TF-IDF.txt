@@ -1,0 +1,57 @@
+Using Smoothing K-value = 11.0000, Overall Accuracy = 76.1%
+Training Time = 86ms, Testing Time = 16ms
+Classification Rate for each topic:
+[-1: 76.40%,	1: 75.80%,]
+
+Confusion Matrix:
+		-1		1
+-1	[76.40%	23.60%	]
+1	[24.20%	75.80%	]
+
+Topic [-1] - Top 10 words with the highest Likelihood:
+	movie             	0.23%
+	film              	0.18%
+	like              	0.17%
+	one               	0.15%
+	bad               	0.11%
+	much              	0.11%
+	story             	0.10%
+	--                	0.10%
+	time              	0.09%
+	characters        	0.09%
+
+Topic [-1] - Top 10 words with the highest Odds Ratio:
+	dull              	8.54
+	flat              	8.28
+	stale             	7.58
+	tired             	6.96
+	bad               	6.85
+	plain             	6.33
+	mediocre          	6.10
+	poorly            	6.05
+	unfunny           	6.05
+	forced            	6.05
+
+Topic [1] - Top 10 words with the highest Likelihood:
+	film              	0.22%
+	movie             	0.15%
+	one               	0.12%
+	--                	0.12%
+	story             	0.11%
+	comedy            	0.11%
+	like              	0.10%
+	way               	0.10%
+	best              	0.10%
+	even              	0.10%
+
+Topic [1] - Top 10 words with the highest Odds Ratio:
+	disturbing        	7.57
+	grief             	6.38
+	engrossing        	6.25
+	refreshingly      	6.25
+	haunting          	6.25
+	affecting         	5.93
+	gem               	5.93
+	gripping          	5.79
+	refreshing        	5.79
+	inventive         	5.79

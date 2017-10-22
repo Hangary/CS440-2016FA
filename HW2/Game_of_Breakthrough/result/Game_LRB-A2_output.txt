@@ -1,0 +1,108 @@
+
+-------------
+Trial 1:
+Final state:
+X  XX XX  
+X XXOXX   
+ O OO OX X
+OX OOO   O
+ O  O XO O
+
+Winner is: (First Player) MinimaxAgent - Depth 4 (Defensive)
+Total number of moves required till the win: 18
+
+Total number of game tree nodes expanded:
+MinimaxAgent - Depth 4 (Defensive)    6552592
+MinimaxAgent - Depth 4 (Offensive)    6255490
+
+Average number of nodes expanded per move:
+MinimaxAgent - Depth 4 (Defensive)    (364032)
+MinimaxAgent - Depth 4 (Offensive)    (367970)
+
+Average amount of time per move:
+MinimaxAgent - Depth 4 (Defensive)    [239ms]
+MinimaxAgent - Depth 4 (Offensive)    [227ms]
+
+MinimaxAgent - Depth 4 (Defensive) captured 6 opponent workers
+MinimaxAgent - Depth 4 (Offensive) captured 6 opponent workers
+
+-------------
+Trial 2:
+Final state:
+XXXXXXX   
+ XXXO X XX
+X   O O O 
+OOOOO OX  
+OO O O OXO
+
+Winner is: (First Player) MinimaxAgent - Depth 4 (Defensive)
+Total number of moves required till the win: 12
+
+Total number of game tree nodes expanded:
+MinimaxAgent - Depth 4 (Defensive)    6026400
+MinimaxAgent - Depth 4 (Offensive)    5846097
+
+Average number of nodes expanded per move:
+MinimaxAgent - Depth 4 (Defensive)    (502200)
+MinimaxAgent - Depth 4 (Offensive)    (531463)
+
+Average amount of time per move:
+MinimaxAgent - Depth 4 (Defensive)    [346ms]
+MinimaxAgent - Depth 4 (Offensive)    [347ms]
+
+MinimaxAgent - Depth 4 (Defensive) captured 4 opponent workers
+MinimaxAgent - Depth 4 (Offensive) captured 4 opponent workers
+
+-------------
+Trial 3:
+Final state:
+  XXX X   
+ X XXXX XX
+X      XOX
+ O OOO  OO
+X OOOO O  
+
+Winner is: (First Player) MinimaxAgent - Depth 4 (Defensive)
+Total number of moves required till the win: 16
+
+Total number of game tree nodes expanded:
+MinimaxAgent - Depth 4 (Defensive)    6904795
+MinimaxAgent - Depth 4 (Offensive)    6616361
+
+Average number of nodes expanded per move:
+MinimaxAgent - Depth 4 (Defensive)    (431549)
+MinimaxAgent - Depth 4 (Offensive)    (441090)
+
+Average amount of time per move:
+MinimaxAgent - Depth 4 (Defensive)    [292ms]
+MinimaxAgent - Depth 4 (Offensive)    [275ms]
+
+MinimaxAgent - Depth 4 (Defensive) captured 8 opponent workers
+MinimaxAgent - Depth 4 (Offensive) captured 5 opponent workers
+
+-------------
+Trial 4:
+Final state:
+XXXXX  XX 
+XXXXXXX X 
+O       OX
+ OOOOOO  O
+OOOOOO OOX
+
+Winner is: (First Player) MinimaxAgent - Depth 4 (Defensive)
+Total number of moves required till the win: 9
+
+Total number of game tree nodes expanded:
+MinimaxAgent - Depth 4 (Defensive)    4658719
+MinimaxAgent - Depth 4 (Offensive)    4338580
+
+Average number of nodes expanded per move:
+MinimaxAgent - Depth 4 (Defensive)    (517635)
+MinimaxAgent - Depth 4 (Offensive)    (542322)
+
+Average amount of time per move:
+MinimaxAgent - Depth 4 (Defensive)    [339ms]
+MinimaxAgent - Depth 4 (Offensive)    [318ms]
+
+MinimaxAgent - Depth 4 (Defensive) captured 3 opponent workers
+MinimaxAgent - Depth 4 (Offensive) captured 3 opponent workers

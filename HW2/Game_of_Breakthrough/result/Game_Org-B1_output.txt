@@ -1,0 +1,120 @@
+
+-------------
+Trial 1:
+Final state:
+X       
+  X   X 
+ X      
+        
+  X O O 
+  O  X  
+ O   OO 
+     X  
+
+Winner is: (First Player) AlphabetaAgent - Depth 6 (Offensive)
+Total number of moves required till the win: 40
+
+Total number of game tree nodes expanded:
+AlphabetaAgent - Depth 6 (Offensive)  60422457
+AlphabetaAgent - Depth 6 (Defensive)  44731538
+
+Average number of nodes expanded per move:
+AlphabetaAgent - Depth 6 (Offensive)  (1510561)
+AlphabetaAgent - Depth 6 (Defensive)  (1146962)
+
+Average amount of time per move:
+AlphabetaAgent - Depth 6 (Offensive)  [2792ms]
+AlphabetaAgent - Depth 6 (Defensive)  [1993ms]
+
+AlphabetaAgent - Depth 6 (Offensive) captured 10 opponent workers
+AlphabetaAgent - Depth 6 (Defensive) captured 9 opponent workers
+
+-------------
+Trial 2:
+Final state:
+  OX    
+     X  
+ X   X  
+       X
+X  O X O
+ X      
+ O  O   
+ O    OO
+
+Winner is: (Second Player) AlphabetaAgent - Depth 6 (Defensive)
+Total number of moves required till the win: 38
+
+Total number of game tree nodes expanded:
+AlphabetaAgent - Depth 6 (Offensive)  67063971
+AlphabetaAgent - Depth 6 (Defensive)  61454209
+
+Average number of nodes expanded per move:
+AlphabetaAgent - Depth 6 (Offensive)  (1764841)
+AlphabetaAgent - Depth 6 (Defensive)  (1617216)
+
+Average amount of time per move:
+AlphabetaAgent - Depth 6 (Offensive)  [2870ms]
+AlphabetaAgent - Depth 6 (Defensive)  [4679ms]
+
+AlphabetaAgent - Depth 6 (Offensive) captured 8 opponent workers
+AlphabetaAgent - Depth 6 (Defensive) captured 8 opponent workers
+
+-------------
+Trial 3:
+Final state:
+X  XX   
+OXX X X 
+     X  
+  X   O 
+  XO   O
+ O  O   
+ O  O   
+OO O  XO
+
+Winner is: (First Player) AlphabetaAgent - Depth 6 (Offensive)
+Total number of moves required till the win: 30
+
+Total number of game tree nodes expanded:
+AlphabetaAgent - Depth 6 (Offensive)  130100075
+AlphabetaAgent - Depth 6 (Defensive)  86483666
+
+Average number of nodes expanded per move:
+AlphabetaAgent - Depth 6 (Offensive)  (4336669)
+AlphabetaAgent - Depth 6 (Defensive)  (2982195)
+
+Average amount of time per move:
+AlphabetaAgent - Depth 6 (Offensive)  [16540ms]
+AlphabetaAgent - Depth 6 (Defensive)  [6220ms]
+
+AlphabetaAgent - Depth 6 (Offensive) captured 4 opponent workers
+AlphabetaAgent - Depth 6 (Defensive) captured 5 opponent workers
+
+-------------
+Trial 4:
+Final state:
+XX  O  X
+   X   X
+  X  X  
+  O     
+ X   O  
+ O      
+ O OOX O
+ OO    O
+
+Winner is: (Second Player) AlphabetaAgent - Depth 6 (Defensive)
+Total number of moves required till the win: 31
+
+Total number of game tree nodes expanded:
+AlphabetaAgent - Depth 6 (Offensive)  94266507
+AlphabetaAgent - Depth 6 (Defensive)  67877798
+
+Average number of nodes expanded per move:
+AlphabetaAgent - Depth 6 (Offensive)  (3040855)
+AlphabetaAgent - Depth 6 (Defensive)  (2189606)
+
+Average amount of time per move:
+AlphabetaAgent - Depth 6 (Offensive)  [5489ms]
+AlphabetaAgent - Depth 6 (Defensive)  [4423ms]
+
+AlphabetaAgent - Depth 6 (Offensive) captured 5 opponent workers
+AlphabetaAgent - Depth 6 (Defensive) captured 7 opponent workers

@@ -1,0 +1,57 @@
+Using Smoothing K-value = 20.0000, Overall Accuracy = 91.8%
+Training Time = 718ms, Testing Time = 704ms
+Classification Rate for each topic:
+[-1: 95.92%,	1: 87.76%,]
+
+Confusion Matrix:
+		-1		1
+-1	[95.92%	4.08%	]
+1	[12.24%	87.76%	]
+
+Topic [-1] - Top 10 words with the highest Likelihood:
+	know              	95.82%
+	like              	95.82%
+	just              	95.61%
+	think             	95.40%
+	don               	95.40%
+	yeah              	95.40%
+	um                	94.35%
+	right             	94.14%
+	oh                	93.93%
+	really            	93.51%
+
+Topic [-1] - Top 10 words with the highest Odds Ratio:
+	partner           	13.09
+	relationship      	12.72
+	marriage          	8.78
+	partners          	8.77
+	relationships     	7.49
+	dating            	6.94
+	important         	5.66
+	honesty           	5.62
+	communication     	5.26
+	qualities         	4.93
+
+Topic [1] - Top 10 words with the highest Likelihood:
+	know              	95.83%
+	just              	95.83%
+	like              	95.83%
+	think             	95.83%
+	don               	95.83%
+	um                	95.83%
+	yeah              	95.63%
+	people            	95.63%
+	oh                	95.21%
+	right             	95.00%
+
+Topic [1] - Top 10 words with the highest Odds Ratio:
+	wage              	16.76
+	minimum           	15.47
+	taxes             	7.73
+	cost              	7.60
+	increase          	7.58
+	wages             	7.45
+	cents             	7.14
+	hour              	7.13
+	low               	6.64
+	higher            	6.59

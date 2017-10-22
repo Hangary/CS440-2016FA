@@ -1,0 +1,30 @@
+
+-------------
+Trial 1:
+Final state:
+XOX XX  
+XX XXX X
+ XO  X  
+  O   XX
+      X 
+        
+OO OO OO
+OOOOO OO
+
+Winner is: (Second Player) MinimaxAgent - Depth 4 (Offensive)
+Total number of moves required till the win: 14
+
+Total number of game tree nodes expanded:
+GreedyAgent - Depth 0 (Defensive)     345
+MinimaxAgent - Depth 4 (Offensive)    6657308
+
+Average number of nodes expanded per move:
+GreedyAgent - Depth 0 (Defensive)     (24)
+MinimaxAgent - Depth 4 (Offensive)    (475522)
+
+Average amount of time per move:
+GreedyAgent - Depth 0 (Defensive)     [0ms]
+MinimaxAgent - Depth 4 (Offensive)    [487ms]
+
+GreedyAgent - Depth 0 (Defensive) captured 0 opponent workers
+MinimaxAgent - Depth 4 (Offensive) captured 1 opponent workers

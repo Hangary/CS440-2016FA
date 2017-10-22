@@ -1,0 +1,5 @@
+Number of grids: 12 * 12
+Number of paddle location: 12
+Discrete X-velocity: 2; Y-velocity: 3
+Training time for 100K iterations: 3509ms
+Percentage of games AI wins over 5K test games: 90.9%

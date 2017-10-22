@@ -1,0 +1,30 @@
+
+-------------
+Trial 1:
+Final state:
+X O  XX 
+      X 
+X X  X  
+ X     X
+ OO O X 
+      OO
+    O   
+O    OOO
+
+Winner is: (Second Player) AlphabetaAgent - Depth 6 (Offensive)
+Total number of moves required till the win: 29
+
+Total number of game tree nodes expanded:
+MinimaxAgent - Depth 4 (Defensive)    13071935
+AlphabetaAgent - Depth 6 (Offensive)  54926563
+
+Average number of nodes expanded per move:
+MinimaxAgent - Depth 4 (Defensive)    (450756)
+AlphabetaAgent - Depth 6 (Offensive)  (1894019)
+
+Average amount of time per move:
+MinimaxAgent - Depth 4 (Defensive)    [326ms]
+AlphabetaAgent - Depth 6 (Offensive)  [3686ms]
+
+MinimaxAgent - Depth 4 (Defensive) captured 5 opponent workers
+AlphabetaAgent - Depth 6 (Offensive) captured 6 opponent workers

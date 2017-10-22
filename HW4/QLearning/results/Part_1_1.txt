@@ -1,0 +1,12 @@
+Number of grids: 12 * 12
+Number of paddle location: 12
+Discrete X-velocity: 2; Y-velocity: 3
+Training time for 100K iterations: 8847ms
+Average number of bounces over 5000 test games: 13.88
+
+Number of grids: 20 * 20
+Number of paddle location: 20
+Discrete X-velocity: 4; Y-velocity: 5
+Training time for 1600K iterations: 302695ms
+Average number of bounces over 5000 test games: 14.18
+
